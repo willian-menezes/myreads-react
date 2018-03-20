@@ -3,7 +3,7 @@
 
 ## Objetivo do Projeto:
 
-Esse projeto foi desenvolvido Udacity React Nanodegree. O objetivo desse projeto é desenvolver e compreender a estrutura básica e como é desenvolvido um app em react.
+Esse projeto foi desenvolvido para Udacity React Nanodegree. O objetivo desse projeto é desenvolver e compreender a estrutura básica e como é desenvolvido um app em react.
 
 ## Como carregar a aplicação
 
